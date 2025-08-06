@@ -2,7 +2,9 @@
 
 
 ## Demos
-
 -  "abTest" - 🧪 AB Testing Tools
+- "basicLLM" - 🤖 You now have an LLM chat in 12 lines
 
-This Streamlit app provides tools for AB testing, including a Sample Size Calculator and Results Analyzer. Created by: [Matt](https://x.com/mattppal)
+## Links 
+- [Steamlit gallery](https://streamlit.io/gallery)
+- [Uber Pickups in NYC Demo](https://github.com/streamlit/demo-uber-nyc-pickups)
