@@ -3,7 +3,7 @@
 ![Presentation Image](PyDataPresentation.png)
 
 ## Presentation
-[Presentation Slides](https://docs.google.com/presentation/d/1KPNZQNOGFbohyAG-mlG-3FXlEK7KCp7rWTfxCwhW-aA/edit?usp=sharing)
+[Presentation Slides](https://docs.google.com/presentation/d/1EbxWSGVP_Gb1wyJL3g3FhtNBxOfdTJ4_jvUEcEmxB-s/edit?usp=sharing)
 
 ## Demos
 -  "abTest" - 🧪 AB Testing Tools
