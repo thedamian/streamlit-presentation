@@ -12,3 +12,4 @@
 ## Links 
 - [Steamlit gallery](https://streamlit.io/gallery)
 - [Uber Pickups in NYC Demo](https://github.com/streamlit/demo-uber-nyc-pickups)
+- [stackoverflow developer survey 2025](https://survey.stackoverflow.co/)
