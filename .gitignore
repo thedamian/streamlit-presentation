@@ -208,3 +208,6 @@ __marimo__/
 
 #streamlit
 .streamlit/secrets.toml
+
+#survey
+survey_results_public.csv
