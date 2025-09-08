@@ -1,10 +1,9 @@
+import pandas as pd
 import streamlit as st
 
-st.title("👋 Hello, Streamlit!")
+st.set_page_config(page_title="📊 Basic Pandas Example", layout="wide")
+st.title("📊 Basic Pandas Example")
 
-input_text = st.text_input("Enter some text")
-
-st.write(f"You entered: {input_text}")
-
-input_select = st.select_slider("Select a value", options=["Option 1", "Option 2", "Option 3"])
-st.write(f"You selected: {input_select}")
+# display data
+data = pd.read_excel("ImportantFinancialStuff.xlsx")
+st.dataframe(data)
