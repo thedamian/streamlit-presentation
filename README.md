@@ -6,7 +6,6 @@
 [Presentation Slides](https://docs.google.com/presentation/d/1EbxWSGVP_Gb1wyJL3g3FhtNBxOfdTJ4_jvUEcEmxB-s/edit?usp=sharing)
 
 
-
 ## Steps to recreate demo
 1) Run installuv.sh (or just install UV) - Optional
 2) Install all dependancies (pip install -r requirements or uv install)
@@ -14,11 +13,15 @@
 4) Run each Demo!
 
 ## Demos
-- "basicLLM" - 🤖 You now have an LLM chat in 12 lines
-- "abTest" - 🧪 AB Testing Tools
+- 01 - Basic StreamLit Example
+- 02 - Basic API Call and showcase
+- 03 - Basic FULL LLM example (Who needs ChatGPT)
+- 04 - abTest Example  (you thought I wasn't a Data Analyst)
+- 
 
 
 ## Links 
+- [StreamLit LLM full Examples](https://llm-examples.streamlit.app/)
 - [Steamlit gallery](https://streamlit.io/gallery)
 - [Uber Pickups in NYC Demo](https://github.com/streamlit/demo-uber-nyc-pickups)
 - [stackoverflow developer survey 2025](https://survey.stackoverflow.co/)
