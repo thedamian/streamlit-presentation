@@ -21,7 +21,10 @@
 
 
 ## Links 
+- [StreamLit Cheat sheet](https://cheat-sheet.streamlit.app/) 
+- [StreamLit Generative AI](https://streamlit.io/generative-ai)
 - [StreamLit LLM full Examples](https://llm-examples.streamlit.app/)
 - [Steamlit gallery](https://streamlit.io/gallery)
+- [My RAG LLM Esxamples](https://github.com/thedamian/RAG-to-Riches)
 - [Uber Pickups in NYC Demo](https://github.com/streamlit/demo-uber-nyc-pickups)
 - [stackoverflow developer survey 2025](https://survey.stackoverflow.co/)
