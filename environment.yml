@@ -4,3 +4,10 @@ channels:
 dependencies:
 - python=3.11
 - streamlit
+- altair
+- numpy
+- openai
+- openpyxl
+- pandas
+- plotly
+- scipy

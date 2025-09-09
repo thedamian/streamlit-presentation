@@ -1,1 +1,8 @@
 streamlit
+altair
+numpy
+openai
+openpyxl
+pandas
+plotly
+scipy
