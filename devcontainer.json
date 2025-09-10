@@ -1,4 +1,4 @@
 {
-    "name":"install uv",
-    "postCreateCommand": "sh ./installuv.sh"
+  "name": "My Codespace",
+  "postCreateCommand": "bash ./installuv.sh"
 }
