@@ -1,4 +1,5 @@
 {
   "name": "My Codespace",
-  "postCreateCommand": "bash ./installuv.sh"
+  "postCreateCommand": "bash .devcontainer/installuv.sh",
+  "onCreateCommand": "echo \"Skipping default Oryx build.\""
 }
