@@ -1,0 +1,5 @@
+{
+  "name": "Streamlit Codespace",
+  "onCreateCommand": "",
+  "postCreateCommand": "bash .devcontainer/installuv.sh"
+}
