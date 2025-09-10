@@ -1,2 +1,0 @@
-PlatformWithVersion=Python 
-BuildCommands=sh ./installuv.sh

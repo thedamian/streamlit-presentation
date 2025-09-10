@@ -1,0 +1,4 @@
+{
+    "name":"install uv",
+    "postCreateCommand": "sh ./installuv.sh"
+}
