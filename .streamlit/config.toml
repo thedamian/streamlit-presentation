@@ -9,3 +9,6 @@ gatherUsageStats = false
 [server]
 headless = true
 runOnSave = true
+
+[client] 
+toolbarMode = "viewer" 
