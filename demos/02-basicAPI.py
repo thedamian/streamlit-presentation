@@ -14,4 +14,4 @@ if type_of_coffee:
     #st.table(coffees)
     for coffee in coffees:
         st.text(coffee["title"])
-        st.image(coffee["image"])
+        st.image(coffee["image"],width=250)
